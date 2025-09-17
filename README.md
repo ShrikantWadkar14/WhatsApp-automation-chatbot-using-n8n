@@ -57,6 +57,4 @@ Contributions are welcome! Feel free to fork the repository, work on improvement
 ## License
 This project is licensed under the MIT License.
 
----
 
-Feel free to customize the caption and README as per your style and project specifics. Let me know if you want help generating the workflow JSON or example code snippets!
