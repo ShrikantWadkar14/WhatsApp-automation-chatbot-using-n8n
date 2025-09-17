@@ -2,9 +2,8 @@
 
 <img width="1240" height="597" alt="Screenshot 2025-09-18 001354" src="https://github.com/user-attachments/assets/e8711d90-51ed-4622-8729-70d433497eca" />
 
-![wp1](https://github.com/user-attachments/assets/a3883e18-a888-48a0-8900-3ab2b935ff84)
+![wp3](https://github.com/user-attachments/assets/7a090c35-4b74-45e0-bd19-6ef8ac2ec45b)
 
-![wp2](https://github.com/user-attachments/assets/cd5c1d24-fd5d-4ed9-838e-fad8196112fb)
 
 
 
