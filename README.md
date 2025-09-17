@@ -1,8 +1,11 @@
 # WhatsApp Automation Bot with n8n and Google Gemini
 
 <img width="1240" height="597" alt="Screenshot 2025-09-18 001354" src="https://github.com/user-attachments/assets/e8711d90-51ed-4622-8729-70d433497eca" />
-![Screenshot_2025-09-18-00-20-50-137_com whatsapp](https://github.com/user-attachments/assets/83949308-8fea-4e39-b416-1859d891dec0)
-![Screenshot_2025-09-18-00-20-56-903_com whatsapp](https://github.com/user-attachments/assets/944a1c2d-ff51-4fe4-b26c-80e9628e077f)
+
+![wp1](https://github.com/user-attachments/assets/a3883e18-a888-48a0-8900-3ab2b935ff84)
+
+![wp2](https://github.com/user-attachments/assets/cd5c1d24-fd5d-4ed9-838e-fad8196112fb)
+
 
 
 ## Project Overview
